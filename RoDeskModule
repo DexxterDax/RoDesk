@@ -1,7 +1,7 @@
 return {
 
 	['Infinite Yield Admin'] = {
-		Name = 'Infinite Yield Admin',
+		_Name = 'Infinite Yield Admin',
 		Author = 'Made by EDGE, ZWOLF & MOON',
 		Description = 'OP Admin script with a lot of features! Made by EDGE, ZWOLF & MOON, enjoy!',
 		SRC = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source',
