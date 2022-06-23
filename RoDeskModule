@@ -8,4 +8,13 @@ return {
 		Icon = 'rbxassetid://9991740133',
 	},
 	
+	['Bad Business'] = {
+		_Name = 'Bad Business | Silent Aim',
+		Author = 'Made by OkBuddy',
+		Description = 'This new script for Bad Business comes with a very good working silent aimbot script. What this will basically do is, it will automatically redirect all your bullets into the head of the enemy, meaning that you don't have to aim at all.
+This is a very powerful and good bad business script, make sure to check it out!',
+		SRC = 'https://pastebin.com/raw/ZfqCC7Xr',
+		Icon = 'rbxassetid://10000243380'
+	}
+	
 }
