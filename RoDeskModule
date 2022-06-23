@@ -8,7 +8,7 @@ return {
 		Icon = 'rbxassetid://9991740133',
 	},
 
-	['Bad Business'] = {
+	['Bad Business | Silent Aim'] = {
 		_Name = 'Bad Business | Silent Aim',
 		Author = 'Made by OkBuddy',
 		Description = [[This new script for Bad Business comes with a very good working silent aimbot script. What this will basically do is, it will automatically redirect all your bullets into the head of the enemy, meaning that you don't have to aim at all.
