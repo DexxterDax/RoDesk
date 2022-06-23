@@ -8,26 +8,4 @@ return {
 		Icon = 'rbxassetid://9991740133',
 	},
 	
-		['Infinite Yddield Admin'] = {
-		_Name = 'Infinite Yddield Admin',
-		Author = 'Made by EDGE, ZWOLF & MOON',
-		Description = 'OP Admin script with a lot of features! Made by EDGE, ZWOLF & MOON, enjoy!',
-		SRC = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source',
-		Icon = 'rbxassetid://9991740133',
-	},
-		['Infinite Ydddddield Admin'] = {
-		_Name = 'Infinite Ydddddield Admin',
-		Author = 'Made by EDGE, ZWOLF & MOON',
-		Description = 'OP Admin script with a lot of features! Made by EDGE, ZWOLF & MOON, enjoy!',
-		SRC = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source',
-		Icon = 'rbxassetid://9991740133',
-	},
-		['Infinite Yield Addddddddmin'] = {
-		_Name = 'Infinite Yield Addddddddmin',
-		Author = 'Made by EDGE, ZWOLF & MOON',
-		Description = 'OP Admin script with a lot of features! Made by EDGE, ZWOLF & MOON, enjoy!',
-		SRC = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source',
-		Icon = 'rbxassetid://9991740133',
-	},
-
 }
