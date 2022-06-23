@@ -16,11 +16,11 @@ return {
 		SRC = 'https://pastebin.com/raw/ZfqCC7Xr',
 		Icon = 'rbxassetid://10000243380'
 	},
-	
+
 	['OP Bedwars GUI'] = {
 		_Name = 'OP Bedwars GUI',
 		Author = 'Made by ranbooxoxo',
-		Description = [[This new script for Bed Wars is super OP and has tons of amazing features. This is easily the best script for Bed Wars and receives constant updates. Enjoy!]]
+		Description = [[This new script for Bed Wars is super OP and has tons of amazing features. This is easily the best script for Bed Wars and receives constant updates. Enjoy!]],
 		SRC = 'https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua',
 		Icon = 'rbxassetid://10000772646'
 	}
